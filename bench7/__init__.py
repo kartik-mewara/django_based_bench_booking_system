@@ -1,0 +1,1 @@
+default_app_config='bench7.apps.Bench7Config'

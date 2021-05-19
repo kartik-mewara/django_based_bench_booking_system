@@ -1,0 +1,1 @@
+default_app_config='bench2.apps.Bench2Config'

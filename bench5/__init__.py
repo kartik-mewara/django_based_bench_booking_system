@@ -1,0 +1,1 @@
+default_app_config='bench5.apps.Bench5Config'

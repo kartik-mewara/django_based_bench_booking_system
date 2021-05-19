@@ -1,0 +1,10 @@
+python version ---- 3.8.10
+virtual env set upper ---   pip install virtualenv
+make vertual env --- virtualenv myenv
+activate vertual env ----my\Scripts\activate
+deactivate by --- deactivate
+intsall django version ---  pip install django==3.0.8       check--- python -m django --version
+start migration  ---  python manage.py makemigrations
+migrate  ---  python manage.py migrate
+create super user ---- python manage.py createsuperuser
+finally --- python manage.py runserver
